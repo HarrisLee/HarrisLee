@@ -15,3 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: Jackson Cao
 - ⚡ Fun fact: Wait A Moument.
 
+- :orange_book: Focusing on Swift & iOS
+ - :hammer: Creator of applications and frameworks
+ - :ram: Founder of ObjCCN
+ - :meat_on_bone: Meat lover
